@@ -1,0 +1,237 @@
+[
+    {
+        "match_no": 24,
+        "home_team": "RR",
+        "away_team": "GT"
+    },
+    {
+        "match_no": 25,
+        "home_team": "MI",
+        "away_team": "RCB"
+    },
+    {
+        "match_no": 26,
+        "home_team": "LSG",
+        "away_team": "DC"
+    },
+    {
+        "match_no": 27,
+        "home_team": "PBKS",
+        "away_team": "RR"
+    },
+    {
+        "match_no": 28,
+        "home_team": "KKR",
+        "away_team": "LSG"
+    },
+    {
+        "match_no": 29,
+        "home_team": "MI",
+        "away_team": "CSK"
+    },
+    {
+        "match_no": 30,
+        "home_team": "RCB",
+        "away_team": "SRH"
+    },
+    {
+        "match_no": 31,
+        "home_team": "KKR",
+        "away_team": "RR"
+    },
+    {
+        "match_no": 32,
+        "home_team": "GT",
+        "away_team": "DC"
+    },
+    {
+        "match_no": 33,
+        "home_team": "PBKS",
+        "away_team": "MI"
+    },
+    {
+        "match_no": 34,
+        "home_team": "LSG",
+        "away_team": "CSK"
+    },
+    {
+        "match_no": 35,
+        "home_team": "DC",
+        "away_team": "SRH"
+    },
+    {
+        "match_no": 36,
+        "home_team": "KKR",
+        "away_team": "RCB"
+    },
+    {
+        "match_no": 37,
+        "home_team": "PBKS",
+        "away_team": "GT"
+    },
+    {
+        "match_no": 38,
+        "home_team": "RR",
+        "away_team": "MI"
+    },
+    {
+        "match_no": 39,
+        "home_team": "CSK",
+        "away_team": "LSG"
+    },
+    {
+        "match_no": 40,
+        "home_team": "DC",
+        "away_team": "GT"
+    },
+    {
+        "match_no": 41,
+        "home_team": "SRH",
+        "away_team": "RCB"
+    },
+    {
+        "match_no": 42,
+        "home_team": "KKR",
+        "away_team": "PBKS"
+    },
+    {
+        "match_no": 43,
+        "home_team": "DC",
+        "away_team": "MI"
+    },
+    {
+        "match_no": 44,
+        "home_team": "LSG",
+        "away_team": "RR"
+    },
+    {
+        "match_no": 45,
+        "home_team": "GT",
+        "away_team": "RCB"
+    },
+    {
+        "match_no": 46,
+        "home_team": "CSK",
+        "away_team": "SRH"
+    },
+    {
+        "match_no": 47,
+        "home_team": "KKR",
+        "away_team": "DC"
+    },
+    {
+        "match_no": 48,
+        "home_team": "LSG",
+        "away_team": "MI"
+    },
+    {
+        "match_no": 49,
+        "home_team": "CSK",
+        "away_team": "PBKS"
+    },
+    {
+        "match_no": 50,
+        "home_team": "SRH",
+        "away_team": "RR"
+    },
+    {
+        "match_no": 51,
+        "home_team": "MI",
+        "away_team": "KKR"
+    },
+    {
+        "match_no": 52,
+        "home_team": "RCB",
+        "away_team": "GT"
+    },
+    {
+        "match_no": 53,
+        "home_team": "PBKS",
+        "away_team": "CSK"
+    },
+    {
+        "match_no": 54,
+        "home_team": "LSG",
+        "away_team": "KKR"
+    },
+    {
+        "match_no": 55,
+        "home_team": "MI",
+        "away_team": "SRH"
+    },
+    {
+        "match_no": 56,
+        "home_team": "DC",
+        "away_team": "RR"
+    },
+    {
+        "match_no": 57,
+        "home_team": "SRH",
+        "away_team": "LSG"
+    },
+    {
+        "match_no": 58,
+        "home_team": "PBKS",
+        "away_team": "RCB"
+    },
+    {
+        "match_no": 59,
+        "home_team": "GT",
+        "away_team": "CSK"
+    },
+    {
+        "match_no": 60,
+        "home_team": "KKR",
+        "away_team": "MI"
+    },
+    {
+        "match_no": 61,
+        "home_team": "CSK",
+        "away_team": "RR"
+    },
+    {
+        "match_no": 62,
+        "home_team": "RCB",
+        "away_team": "DC"
+    },
+    {
+        "match_no": 63,
+        "home_team": "GT",
+        "away_team": "KKR"
+    },
+    {
+        "match_no": 64,
+        "home_team": "DC",
+        "away_team": "LSG"
+    },
+    {
+        "match_no": 65,
+        "home_team": "RR",
+        "away_team": "PBKS"
+    },
+    {
+        "match_no": 66,
+        "home_team": "SRH",
+        "away_team": "GT"
+    },
+    {
+        "match_no": 67,
+        "home_team": "MI",
+        "away_team": "LSG"
+    },
+    {
+        "match_no": 68,
+        "home_team": "RCB",
+        "away_team": "CSK"
+    },
+    {
+        "match_no": 69,
+        "home_team": "SRH",
+        "away_team": "PBKS"
+    },
+    {
+        "match_no": 70,
+        "home_team": "RR",
+        "away_team": "KKR"
+    }
+]
