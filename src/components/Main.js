@@ -19,7 +19,7 @@ const Main = () => {
         }
     }))
   return (
-    <div className='text-white d-flex'>
+    <div className='text-white d-flex main'>
         <div className='w-50 bg-tertiary'>
             <LeftSide remaining={remaining} setRemaing={setRemaing} />
         </div>

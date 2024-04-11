@@ -7,11 +7,14 @@ const LeftSide = ({ remaining, setRemaing }) => {
         const tempData = [ ...remaining ];
         tempData[index][e.target.name] = Number(e.target.value);
         const currentMatch = tempData[index];
-        if(!currentMatch.home_team_score || isNaN(currentMatch.home_team_score) || currentMatch.home_team_score < 0 || currentMatch.home_team_score > 300 ||
+        if(currentMatch.home_team_score / currentMatch.home_team_overs > 36){
+            tempData[index]['result'] = 'Please enter valid home team score'
+            tempData[index]['error'] = true;
+        }else if(!currentMatch.home_team_score || isNaN(currentMatch.home_team_score) || currentMatch.home_team_score < 0 || currentMatch.home_team_score > 300 ||
             currentMatch.home_team_score % 1 > 0){
             tempData[index]['result'] = 'Please enter valid home team score'
             tempData[index]['error'] = true;
-        } else if(!currentMatch.home_team_wickets || isNaN(currentMatch.home_team_wickets) || currentMatch.home_team_wickets < 0 || currentMatch.home_team_wickets > 10 ||
+        } else if(currentMatch.home_team_wickets === '' || isNaN(currentMatch.home_team_wickets) || currentMatch.home_team_wickets < 0 || currentMatch.home_team_wickets > 10 ||
             currentMatch.home_team_wickets % 1 > 0){
             tempData[index]['result'] = 'Please enter valid home team wickets'
             tempData[index]['error'] = true;
@@ -21,11 +24,14 @@ const LeftSide = ({ remaining, setRemaing }) => {
             (currentMatch.home_team_overs - Math.floor(currentMatch.home_team_overs)) * 10 > 5){
             tempData[index]['result'] = 'Please enter valid home team overs'
             tempData[index]['error'] = true;
+        } else if(currentMatch.away_team_score / currentMatch.away_team_overs > 36){
+            tempData[index]['result'] = 'Please enter valid away team score'
+            tempData[index]['error'] = true;
         } else if(!currentMatch.away_team_score || isNaN(currentMatch.away_team_score) || currentMatch.away_team_score < 0 || currentMatch.away_team_score > 300 ||
             currentMatch.away_team_score % 1 > 0){
             tempData[index]['result'] = 'Please enter valid away team score'
             tempData[index]['error'] = true;
-        } else if(!currentMatch.away_team_wickets || isNaN(currentMatch.away_team_wickets) || currentMatch.away_team_wickets < 0 || currentMatch.away_team_wickets > 10 ||
+        } else if(currentMatch.away_team_wickets === '' || isNaN(currentMatch.away_team_wickets) || currentMatch.away_team_wickets < 0 || currentMatch.away_team_wickets > 10 ||
             currentMatch.away_team_wickets % 1 > 0){
             tempData[index]['result'] = 'Please enter valid away team wickets'
             tempData[index]['error'] = true;
