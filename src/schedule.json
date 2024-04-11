@@ -1,10 +1,5 @@
 [
     {
-        "match_no": 25,
-        "home_team": "MI",
-        "away_team": "RCB"
-    },
-    {
         "match_no": 26,
         "home_team": "LSG",
         "away_team": "DC"
