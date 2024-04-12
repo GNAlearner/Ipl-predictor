@@ -298,5 +298,17 @@
         "away_team_wickets": 8,
         "away_team_overs": 20,
         "result": "MI won by 7 Wickets"
+    },
+    {
+        "match_no": 26,
+        "home_team": "LSG",
+        "away_team": "DC",
+        "home_team_score": 167,
+        "home_team_wickets": 7,
+        "home_team_overs": 20,
+        "away_team_score": 170,
+        "away_team_wickets": 4,
+        "away_team_overs": 18.1,
+        "result": "DC won by 6 Wickets"
     }
 ]
