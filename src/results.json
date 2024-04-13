@@ -310,5 +310,17 @@
         "away_team_wickets": 4,
         "away_team_overs": 18.1,
         "result": "DC won by 6 Wickets"
+    },
+    {
+        "match_no": 27,
+        "home_team": "PBKS",
+        "away_team": "RR",
+        "home_team_score": 147,
+        "home_team_wickets": 8,
+        "home_team_overs": 20,
+        "away_team_score": 152,
+        "away_team_wickets": 7,
+        "away_team_overs": 19.5,
+        "result": "RR won by 3 Wickets"
     }
 ]
