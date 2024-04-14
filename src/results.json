@@ -322,5 +322,29 @@
         "away_team_wickets": 7,
         "away_team_overs": 19.5,
         "result": "RR won by 3 Wickets"
+    },
+    {
+        "match_no": 28,
+        "home_team": "KKR",
+        "away_team": "LSG",
+        "home_team_score": 162,
+        "home_team_wickets": 2,
+        "home_team_overs": 15.4,
+        "away_team_score": 161,
+        "away_team_wickets": 7,
+        "away_team_overs": 20,
+        "result": "KKR won by 8 Wickets"
+    },
+    {
+        "match_no": 29,
+        "home_team": "MI",
+        "away_team": "CSK",
+        "home_team_score": 186,
+        "home_team_wickets": 6,
+        "home_team_overs": 20,
+        "away_team_score": 206,
+        "away_team_wickets": 4,
+        "away_team_overs": 20,
+        "result": "CSK won by 20 Runs"
     }
 ]
