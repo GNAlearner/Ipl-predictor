@@ -346,5 +346,17 @@
         "away_team_wickets": 4,
         "away_team_overs": 20,
         "result": "CSK won by 20 Runs"
+    },
+    {
+        "match_no": 30,
+        "home_team": "RCB",
+        "away_team": "SRH",
+        "away_team_score": 287,
+        "away_team_wickets": 3,
+        "away_team_overs": 20,
+        "home_team_score": 262,
+        "home_team_wickets": 7,
+        "home_team_overs": 20,
+        "result": "SRH won by 25 Runs"
     }
 ]
