@@ -358,5 +358,17 @@
         "home_team_wickets": 7,
         "home_team_overs": 20,
         "result": "SRH won by 25 Runs"
+    },
+    {
+        "match_no": 31,
+        "home_team": "KKR",
+        "away_team": "RR",
+        "home_team_score": 223,
+        "home_team_wickets": 6,
+        "home_team_overs": 20,
+        "away_team_score": 224,
+        "away_team_wickets": 8,
+        "away_team_overs": 20,
+        "result": "KKR won by 2 Wickets"
     }
 ]
