@@ -370,5 +370,17 @@
         "away_team_wickets": 8,
         "away_team_overs": 20,
         "result": "KKR won by 2 Wickets"
+    },
+    {
+        "match_no": 32,
+        "home_team": "GT",
+        "away_team": "DC",
+        "home_team_score": 89,
+        "home_team_wickets": 10,
+        "home_team_overs": 17.3,
+        "away_team_score": 92,
+        "away_team_wickets": 4,
+        "away_team_overs": 8.5,
+        "result": "KKR won by 2 Wickets"
     }
 ]
