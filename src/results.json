@@ -394,5 +394,17 @@
         "away_team_wickets": 7,
         "away_team_overs": 20,
         "result": "MI won by 9 Runs"
+    },
+    {
+        "match_no": 34,
+        "home_team": "LSG",
+        "away_team": "CSK",
+        "home_team_score": 180,
+        "home_team_wickets": 2,
+        "home_team_overs": 19,
+        "away_team_score": 176,
+        "away_team_wickets": 6,
+        "away_team_overs": 20,
+        "result": "LSG won by 8 Wickets"
     }
 ]
