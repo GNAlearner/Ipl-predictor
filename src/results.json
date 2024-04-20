@@ -406,5 +406,17 @@
         "away_team_wickets": 6,
         "away_team_overs": 20,
         "result": "LSG won by 8 Wickets"
+    },
+    {
+        "match_no": 35,
+        "home_team": "DC",
+        "away_team": "SRH",
+        "home_team_score": 199,
+        "home_team_wickets": 10,
+        "home_team_overs": 19.1,
+        "away_team_score": 266,
+        "away_team_wickets": 7,
+        "away_team_overs": 20,
+        "result": "SRH won by 67 Runs"
     }
 ]
