@@ -430,5 +430,17 @@
         "away_team_wickets": 10,
         "away_team_overs": 20,
         "result": "KKR won by 1 Run"
+    },
+    {
+        "match_no": 37,
+        "home_team": "PBKS",
+        "away_team": "GT",
+        "home_team_score": 142,
+        "home_team_wickets": 10,
+        "home_team_overs": 20,
+        "away_team_score": 146,
+        "away_team_wickets": 7,
+        "away_team_overs": 19.1,
+        "result": "GT won by 3 Wickets"
     }
 ]
