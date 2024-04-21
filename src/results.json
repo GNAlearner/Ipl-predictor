@@ -418,5 +418,17 @@
         "away_team_wickets": 7,
         "away_team_overs": 20,
         "result": "SRH won by 67 Runs"
+    },
+    {
+        "match_no": 36,
+        "home_team": "KKR",
+        "away_team": "RCB",
+        "home_team_score": 222,
+        "home_team_wickets": 6,
+        "home_team_overs": 20,
+        "away_team_score": 221,
+        "away_team_wickets": 10,
+        "away_team_overs": 20,
+        "result": "KKR won by 1 Run"
     }
 ]
