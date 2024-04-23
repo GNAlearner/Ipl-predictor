@@ -442,5 +442,29 @@
         "away_team_wickets": 7,
         "away_team_overs": 19.1,
         "result": "GT won by 3 Wickets"
+    },
+    {
+        "match_no": 38,
+        "home_team": "RR",
+        "away_team": "MI",
+        "home_team_score": 183,
+        "home_team_wickets": 1,
+        "home_team_overs": 18.4,
+        "away_team_score": 179,
+        "away_team_wickets": 9,
+        "away_team_overs": 20,
+        "result": "RR won by 9 Wickets"
+    },
+    {
+        "match_no": 39,
+        "home_team": "CSK",
+        "away_team": "LSG",
+        "home_team_score": 210,
+        "home_team_wickets": 4,
+        "home_team_overs": 20,
+        "away_team_score": 213,
+        "away_team_wickets": 4,
+        "away_team_overs": 19.3,
+        "result": "LSG won by 6 Wickets"
     }
 ]
