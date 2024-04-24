@@ -466,5 +466,17 @@
         "away_team_wickets": 4,
         "away_team_overs": 19.3,
         "result": "LSG won by 6 Wickets"
+    },
+    {
+        "match_no": 40,
+        "home_team": "DC",
+        "away_team": "GT",
+        "home_team_score": 224,
+        "home_team_wickets": 4,
+        "home_team_overs": 20,
+        "away_team_score": 220,
+        "away_team_wickets": 8,
+        "away_team_overs": 20,
+        "result": "DC won by 4 Wickets"
     }
 ]
