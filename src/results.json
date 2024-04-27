@@ -502,5 +502,17 @@
         "away_team_wickets": 2,
         "away_team_overs": 18.4,
         "result": "PBKS won by 8 Wickets"
+    },
+    {
+        "match_no": 43,
+        "home_team": "DC",
+        "away_team": "MI",
+        "home_team_score": 257,
+        "home_team_wickets": 4,
+        "home_team_overs": 20,
+        "away_team_score": 247,
+        "away_team_wickets": 9,
+        "away_team_overs": 20,
+        "result": "DC won by 10 Runs"
     }
 ]
