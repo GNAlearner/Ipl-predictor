@@ -1,10 +1,5 @@
 [
     {
-        "match_no": 42,
-        "home_team": "KKR",
-        "away_team": "PBKS"
-    },
-    {
         "match_no": 43,
         "home_team": "DC",
         "away_team": "MI"

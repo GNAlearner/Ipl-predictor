@@ -2,7 +2,6 @@ import React from 'react'
 import data from '../results.json';
 
 const RightSide = ({ remaining }) => {
-    console.log(remaining)
 
     const teams = ['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RCB', 'RR', 'SRH'];
 

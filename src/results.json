@@ -490,5 +490,17 @@
         "away_team_wickets": 7,
         "away_team_overs": 20,
         "result": "RCB won by 35 Runs"
+    },
+    {
+        "match_no": 42,
+        "home_team": "KKR",
+        "away_team": "PBKS",
+        "home_team_score": 261,
+        "home_team_wickets": 6,
+        "home_team_overs": 20,
+        "away_team_score": 262,
+        "away_team_wickets": 2,
+        "away_team_overs": 18.4,
+        "result": "PBKS won by 8 Wickets"
     }
 ]
