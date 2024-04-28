@@ -1,15 +1,5 @@
 [
     {
-        "match_no": 45,
-        "home_team": "GT",
-        "away_team": "RCB"
-    },
-    {
-        "match_no": 46,
-        "home_team": "CSK",
-        "away_team": "SRH"
-    },
-    {
         "match_no": 47,
         "home_team": "KKR",
         "away_team": "DC"
