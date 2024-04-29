@@ -550,5 +550,17 @@
         "away_team_wickets": 10,
         "away_team_overs": 18.5,
         "result": "CSK won by 78 Runs"
+    },
+    {
+        "match_no": 47,
+        "home_team": "KKR",
+        "away_team": "DC",
+        "home_team_score": 157,
+        "home_team_wickets": 3,
+        "home_team_overs": 16.3,
+        "away_team_score": 153,
+        "away_team_wickets": 9,
+        "away_team_overs": 20,
+        "result": "KKR won by 7 Wickets"
     }
 ]
