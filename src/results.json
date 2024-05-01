@@ -562,5 +562,17 @@
         "away_team_wickets": 9,
         "away_team_overs": 20,
         "result": "KKR won by 7 Wickets"
+    },
+    {
+        "match_no": 48,
+        "home_team": "LSG",
+        "away_team": "MI",
+        "home_team_score": 145,
+        "home_team_wickets": 6,
+        "home_team_overs": 19.2,
+        "away_team_score": 144,
+        "away_team_wickets": 7,
+        "away_team_overs": 20,
+        "result": "LSG won by 4 Wickets"
     }
 ]
