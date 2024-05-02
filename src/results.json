@@ -574,5 +574,17 @@
         "away_team_wickets": 7,
         "away_team_overs": 20,
         "result": "LSG won by 4 Wickets"
+    },
+    {
+        "match_no": 49,
+        "home_team": "CSK",
+        "away_team": "PBKS",
+        "home_team_score": 162,
+        "home_team_wickets": 7,
+        "home_team_overs": 20,
+        "away_team_score": 163,
+        "away_team_wickets": 3,
+        "away_team_overs": 17.5,
+        "result": "PBKS won by 7 Wickets"
     }
 ]
