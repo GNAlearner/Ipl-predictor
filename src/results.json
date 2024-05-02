@@ -586,5 +586,17 @@
         "away_team_wickets": 3,
         "away_team_overs": 17.5,
         "result": "PBKS won by 7 Wickets"
+    },
+    {
+        "match_no": 50,
+        "home_team": "SRH",
+        "away_team": "RR",
+        "home_team_score": 201,
+        "home_team_wickets": 3,
+        "home_team_overs": 20,
+        "away_team_score": 200,
+        "away_team_wickets": 7,
+        "away_team_overs": 20,
+        "result": "RR won by 1 Run"
     }
 ]
