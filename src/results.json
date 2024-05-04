@@ -610,5 +610,17 @@
         "away_team_wickets": 10,
         "away_team_overs": 19.5,
         "result": "KKR won by 24 Runs"
+    },
+    {
+        "match_no": 52,
+        "home_team": "RCB",
+        "away_team": "GT",
+        "home_team_score": 152,
+        "home_team_wickets": 6,
+        "home_team_overs": 13.4,
+        "away_team_score": 147,
+        "away_team_wickets": 10,
+        "away_team_overs": 19.3,
+        "result": "RCB won by 4 Wickets"
     }
 ]
