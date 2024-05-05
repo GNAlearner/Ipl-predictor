@@ -622,5 +622,29 @@
         "away_team_wickets": 10,
         "away_team_overs": 19.3,
         "result": "RCB won by 4 Wickets"
+    },
+    {
+        "match_no": 53,
+        "home_team": "PBKS",
+        "away_team": "CSK",
+        "home_team_score": 139,
+        "home_team_wickets": 9,
+        "home_team_overs": 20,
+        "away_team_score": 167,
+        "away_team_wickets": 9,
+        "away_team_overs": 20,
+        "result": "CSK won by 28 Runs"
+    },
+    {
+        "match_no": 54,
+        "home_team": "LSG",
+        "away_team": "KKR",
+        "home_team_score": 137,
+        "home_team_wickets": 10,
+        "home_team_overs": 16.1,
+        "away_team_score": 235,
+        "away_team_wickets": 6,
+        "away_team_overs": 20,
+        "result": "KKR won by 98 Runs"
     }
 ]
