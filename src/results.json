@@ -646,5 +646,17 @@
         "away_team_wickets": 6,
         "away_team_overs": 20,
         "result": "KKR won by 98 Runs"
+    },
+    {
+        "match_no": 55,
+        "home_team": "MI",
+        "away_team": "SRH",
+        "home_team_score": 174,
+        "home_team_wickets": 3,
+        "home_team_overs": 17.2,
+        "away_team_score": 173,
+        "away_team_wickets": 8,
+        "away_team_overs": 20,
+        "result": "MI won by 7 Wickets"
     }
 ]
