@@ -670,5 +670,41 @@
         "away_team_wickets": 8,
         "away_team_overs": 20,
         "result": "DC won by 20 Runs"
+    },
+    {
+        "match_no": 57,
+        "home_team": "SRH",
+        "away_team": "LSG",
+        "home_team_score": 167,
+        "home_team_wickets": 0,
+        "home_team_overs": 9.4,
+        "away_team_score": 165,
+        "away_team_wickets": 4,
+        "away_team_overs": 20,
+        "result": "SRH won by 10 Wickets"
+    },
+    {
+        "match_no": 58,
+        "home_team": "PBKS",
+        "away_team": "RCB",
+        "home_team_score": 181,
+        "home_team_wickets": 7,
+        "home_team_overs": 20,
+        "away_team_score": 241,
+        "away_team_wickets": 7,
+        "away_team_overs": 20,
+        "result": "RCB won by 60 Runs"
+    },
+    {
+        "match_no": 59,
+        "home_team": "GT",
+        "away_team": "CSK",
+        "home_team_score": 231,
+        "home_team_wickets": 3,
+        "home_team_overs": 20,
+        "away_team_score": 196,
+        "away_team_wickets": 8,
+        "away_team_overs": 20,
+        "result": "GT won by 35 Runs"
     }
 ]
