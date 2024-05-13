@@ -706,5 +706,41 @@
         "away_team_wickets": 8,
         "away_team_overs": 20,
         "result": "GT won by 35 Runs"
+    },
+    {
+        "match_no": 60,
+        "home_team": "KKR",
+        "away_team": "MI",
+        "home_team_score": 157,
+        "home_team_wickets": 7,
+        "home_team_overs": 16,
+        "away_team_score": 139,
+        "away_team_wickets": 8,
+        "away_team_overs": 16,
+        "result": "KKR won by 18 Runs"
+    },
+    {
+        "match_no": 61,
+        "home_team": "CSK",
+        "away_team": "RR",
+        "home_team_score": 145,
+        "home_team_wickets": 5,
+        "home_team_overs": 18.2,
+        "away_team_score": 141,
+        "away_team_wickets": 5,
+        "away_team_overs": 20,
+        "result": "CSK won by 5 Wickets"
+    },
+    {
+        "match_no": 62,
+        "home_team": "RCB",
+        "away_team": "DC",
+        "home_team_score": 187,
+        "home_team_wickets": 9,
+        "home_team_overs": 20,
+        "away_team_score": 140,
+        "away_team_wickets": 10,
+        "away_team_overs": 19.1,
+        "result": "RCB won by 47 Runs"
     }
 ]
