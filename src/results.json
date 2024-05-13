@@ -742,5 +742,17 @@
         "away_team_wickets": 10,
         "away_team_overs": 19.1,
         "result": "RCB won by 47 Runs"
+    },
+    {
+        "match_no": 63,
+        "home_team": "GT",
+        "away_team": "KKR",
+        "home_team_score": 0,
+        "home_team_wickets": 0,
+        "home_team_overs": 0,
+        "away_team_score": 0,
+        "away_team_wickets": 0,
+        "away_team_overs": 0,
+        "result": "Match abandoned due to rain"
     }
 ]
